@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Excellent Bank</string>
+    <string name="nama_user">Hi, Jonathan</string>
+    <string name="greeting">Selamat Pagi</string>
+    <string name="tabungan_anda">Saldo Tabungan Anda</string>
+    <string name="saldo_user">Rp. 100.000.000</string>
+    <string name="kolom_investasi">Total Investasi anda</string>
+    <string name="saldo_investasi">Rp. 57.000.000</string>
+    <string name="kolom_deposito">Total Deposito anda</string>
+    <string name="saldo_deposito">Rp. 43.000.000</string>
+    <string name="tombol1">Transfer</string>
+    <string name="tombol2">Top-Up</string>
+    <string name="tombol3">Tarik Tunai</string>
+    <string name="login_username">Masukan Username Anda</string>
+    <string name="login_password">Masukan Password Anda</string>
+    <string name="login_text">Excelent Bank</string>
+    <string name="button_text">Login</string>
+    <string name="tagline">Kemudahan ditangan Anda</string>
+    <string name="transfer">Transfer</string>
+    <string name="transfer_ke">Mau transfer ke siapa?</string>
+    <string name="nominal_trans">Masukan nominal Transfer:</string>
+    <string name="nominal">Rp.100.000,-</string>
+    <string name="pesan_transfer">Masukan Pesan anda:</string>
+    <string name="Transfer_success">SUCCESS!</string>
+    <string name="Transfer_success2">Transfer anda Berhasil</string>
+    <string name="Transfer_success3">Terimakasih Sudah melakukan Transfer</string>
+    <string name="transfer_button">Finish Transfer</string>
+</resources>
